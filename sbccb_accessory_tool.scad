@@ -49,12 +49,12 @@
     installation_wall_thickness = 2; // [2 : .25 : 5]
 
     /* [Washer] */
-    washer_style = "flat"; // ["flat", "shouldered"]
+    washer_style = "shouldered"; // ["flat", "shouldered"]
     washer_od = 5; // [3 : .25 : 20]
     washer_id = 3; // [2 : .25 : 20]
-    washer_thickness = 2; // [1 : .25 : 8]
+    washer_thickness = 5; // [1 : .25 : 8]
     shoulder_height = 3; // [1 : .25 : 4]
-    shoulder_countersunk = false; // [true,false]
+    shoulder_countersunk = true; // [true,false]
 
     /* [Hidden] */
     mask = [true, 10, 2, "default"];
