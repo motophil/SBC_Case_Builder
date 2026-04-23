@@ -8,8 +8,9 @@
     "settings": {
         "editor.useTabStops": false,
         "files.autoGuessEncoding": true,
-        "window.title": "SBC_Case_Builder${separator}${dirty}${activeEditorShort}",
+        "git.addAICoAuthor": "off",
         "scad-lsp.defaultParam": true,
-        "scad-lsp.fmtIdent": "    "
+        "scad-lsp.fmtIdent": "    ",
+        "window.title": "SBC_Case_Builder${separator}${dirty}${activeEditorShort}"
     }
 }
